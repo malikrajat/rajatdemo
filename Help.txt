@@ -1,7 +1,0 @@
-1. Need to trigger below given URL on browser to post repository issue on the github|bitbucket (Please add your github|bitbucket login credentials in place of username and passowrd)
-	
-  e.g. php issue.php username password "https://github.com/adev/code-issue-cli" "Issue Title" "Issue Description"
-     
-  e.g. php issue.php username password "https://bitbucket.org/adev/code-issue-cli" "Issue Title" "Issue Description"
-
-
